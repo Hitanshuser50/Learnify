@@ -59,7 +59,18 @@ See `contributing.md` for ways to get started.
 Please adhere to this project's `code of conduct`.
 
 
+## Usage/Examples
+
+```javascript
+import Component from 'my-project'
+
+function App() {
+  return <Component />
+}
+```
+
+
 ## Demo
 
-Insert gif or link to demo
+Here will go Our Demo Link (soon to be updated)
 
