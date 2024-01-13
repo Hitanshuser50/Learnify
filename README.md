@@ -13,7 +13,7 @@ Unleash the Power of Personalized Learning:
 
 Built for Flexibility and Growth:
 
-Cutting-edge technologies: Learnify leverages a robust tech stack of HTML5,CSS,SQL,PHP & JS to ensure scalability, flexibility, and a seamless learning experience.
+Cutting-edge technologies: Learnify leverages a robust tech stack of HTML5,CSS3,SQL,PHP & JS to ensure scalability, flexibility, and a seamless learning experience.
 
 Open source for all: Contribute to the codebase, suggest improvements, and customize Learnify to fit your specific needs and preferences.
 
